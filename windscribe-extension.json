@@ -1,0 +1,657 @@
+{
+  "data": {
+    "contextMenu": true,
+    "locationLoad": false,
+    "allowSystemNotifications": true,
+    "connectionState": {
+      "autoConnect": true,
+      "failover": "Auto / Best",
+      "smokeWall": true
+    },
+    "proxyPort": 443,
+    "blockLists": [
+      "easylist",
+      "easyprivacy",
+      "pgl",
+      "ublock-filters"
+    ],
+    "languageWarpEnabled": false,
+    "locationWarp": false,
+    "workerBlock": false,
+    "timeWarpEnabled": false,
+    "webRtcEnabled": false,
+    "splitPersonalityEnabled": false,
+    "notificationBlockerEnabled": false,
+    "adPrivacyEnabled": true,
+    "allowlist": {
+      "tailscale.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "ts.net": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "1password.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "aircanada.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "alipay.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "amazon.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "amazon.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "amazonvideo.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "anthropic.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "apple.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "bell.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "bmo.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "bmoinvestorline.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "canspace.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "canva.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "chatgpt.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "cibc.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "claude.ai": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "claudeusercontent.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "costco.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "ctrip.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "customercontrolpanel.de": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "discord.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "doordash.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "dropbox.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "dynadot.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "easebar.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "easypanel.host": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "ebay.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "ebay.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "epicgames.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "fonusmobile.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "github.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "grammarly.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "haventreebank.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "hetrixtools.net": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "hetzner.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "icloud.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "interac.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "intuit.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "live.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "me.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "microsoft.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "microsoftonline.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "mycardplace.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "netcup.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "netflix.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "oaistatic.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "oaken.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "office.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "office365.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "onid.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "openai.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "outlook.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "paypal.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "paypalobjects.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "perplexity.ai": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "phoneboxmobile.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "pingan.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "plex.tv": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "prestocard.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "prestoprod.net": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "primevideo.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "proton.me": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "protonmail.ch": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "rbc.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "rbcroyalbank.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "regery.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "royalbank.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "sharepoint.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "shopify.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "slack.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "spaceship.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "spotify.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "steamcommunity.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "steampowered.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "steamserver.net": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "stripe.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "stripe.network": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "sunwing.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "td.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "ticketmaster.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "twilio.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "twitch.tv": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "wealthsimple.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "wise.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "xboxlive.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "youtube.com": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "zoom.us": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "canada.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "gc.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "alberta.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "gov.bc.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "gov.mb.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "gov.nl.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "novascotia.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "ontario.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "gov.on.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "princeedwardisland.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "quebec.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "saskatchewan.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "gov.nt.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "gov.nu.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      },
+      "yukon.ca": {
+        "allowAds": false,
+        "allowPrivacyFeatures": false,
+        "allowDirectConnections": true,
+        "includeAllSubdomains": true
+      }
+    },
+    "theme": "dark",
+    "favoriteLocations": [],
+    "locationSorting": "geography"
+  },
+  "schema_version": 1
+}
