@@ -4,6 +4,8 @@
 100.100.100.0/24
 100.115.92.0/23
 fd7a:115c:a1e0::/48
+tailscale.com
+ts.net
 # Controld
 23.171.240.0/24
 76.76.10.0/24
@@ -111,7 +113,6 @@ steamserver.net
 stripe.com
 stripe.network
 sunwing.ca
-tailscale.com
 td.com
 ticketmaster.ca
 twilio.com
